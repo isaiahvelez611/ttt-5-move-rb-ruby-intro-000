@@ -13,3 +13,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 position = input_to_index(input) 
 
 move(board, position)
+
