@@ -14,3 +14,4 @@ position = input_to_index(input)
 
 move(board, position)
 
+display_board(
